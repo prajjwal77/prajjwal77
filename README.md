@@ -20,13 +20,30 @@ I'm a passionate developer specializing in **Java Full Stack Development** and l
 ---
 
 ### 🌟 Highlighted Projects:
-- [**Fitness App - FITNEX**](https://github.com/prajjwal77/FITNEX) 🏋️‍♂️
-  *A comprehensive gym e-commerce solution.* 
-  - Features: Cart, Membership Plans, AI Suggestions.
-- [**YouTube Clone**](https://github.com/prajjwal77/youtube-clone) 🎥
-  *Full-stack application mimicking YouTube’s functionality.*
-- [**Portfolio Website**](https://github.com/prajjwal77/portfolio) 💼
-  *A showcase of my skills and projects.*
+
+- [**Gym E-commerce - FITNEX**](https://github.com/prajjwal77/Gym-Ecommerce-FITNEX) 🏋️‍♂️  
+  *A comprehensive gym e-commerce solution.*  
+  - Features: Cart Management, Membership Plans, AI Suggestions, Product Filters, and User Profiles.
+
+- [**Fitness Application**](https://github.com/prajjwal77/FitnessApplication) 📱  
+  *A user-friendly fitness app for workout planning, diet tracking, and motivation.*  
+  - Features: Workout Plans, Diet Management, and Progress Tracking.
+
+- [**Smart Contact Manager (SCM)**](https://github.com/prajjwal77/Smart-Contact-Manager-SCM-) 📇  
+  *An intuitive contact management system.*  
+  - Features: Add, Edit, Delete, and Search Contacts.
+
+- [**Problem Solving Repository**](https://github.com/prajjwal77/Problems-) 🧩  
+  *A collection of solutions to algorithmic and coding challenges.*  
+  - Focus: Optimized solutions and clean code practices.
+
+- [**CODSOFT Projects**](https://github.com/prajjwal77/CODSOFT) 💡  
+  *Projects developed under the CODSOFT initiative.*  
+  - Includes: Diverse applications and challenges showcasing creativity.
+
+- [**Portfolio Website**](https://github.com/prajjwal77/portfolio) 💼  
+  *A showcase of my skills, projects, and achievements.*  
+  - Features: Interactive Design, Project Links, and Contact Section.
 
 ---
 
