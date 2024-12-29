@@ -48,6 +48,6 @@ I'm a passionate developer specializing in **Java Full Stack Development** and l
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prajjwal-yadav-881a89262)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][(https://www.instagram.com/iamprajjwal/profilecard/?igsh=dHJuZHoya2Y3dWN6)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/prajjwal-yadav-881a89262](https://www.linkedin.com/in/prajjwal-yadav-881a89262/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajjwal.fitness)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajjwal77/portfolio)
