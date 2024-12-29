@@ -21,7 +21,6 @@ I'm a passionate developer specializing in **Java Full Stack Development** and l
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![DSA](https://img.shields.io/badge/DSA-0078D7?style=for-the-badge&logo=code&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ---
 
 ### 🌟 Highlighted Projects:
