@@ -37,9 +37,9 @@ I'm a passionate developer specializing in **Java Full Stack Development** and l
   *A collection of solutions to algorithmic and coding challenges.*  
   - Focus: Optimized solutions and clean code practices.
 
-- [**CODSOFT Projects**](https://github.com/prajjwal77/CODSOFT) 💡  
-  *Projects developed under the CODSOFT initiative.*  
-  - Includes: Diverse applications and challenges showcasing creativity.
+- [**CODSOFT Internship Work**](https://github.com/prajjwal77/CODSOFT) 💼  
+  *Work completed during my internship at CODSOFT.*  
+  - Contributions: Developed innovative applications and tackled diverse challenges.
 
 - [**Portfolio Website**](https://github.com/prajjwal77/portfolio) 💼  
   *A showcase of my skills, projects, and achievements.*  
